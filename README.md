@@ -59,8 +59,13 @@ Project Objectives
 
 Build a fully functional end-to-end data pipeline aligned with modern Lakehouse practices.
 
+
+
 Demonstrate raw → refined → business data flows using the Medallion Architecture.
 
 Implement robust historical tracking via SCD2 and SCD3.
 
 Deliver business-ready datasets suitable for reporting, dashboards, and advanced analytics.
+<img width="1193" height="612" alt="job_graph" src="https://github.com/user-attachments/assets/4a647215-3845-467f-9a5c-61ea8c55cf81" />
+<img width="573" height="452" alt="scd2" src="https://github.com/user-attachments/assets/e8fadb18-d7db-4459-9cfd-a8e6db1bb7e1" />
+<img width="1096" height="510" alt="scd3" src="https://github.com/user-attachments/assets/b7fc1539-b0a0-4e7a-b370-53a7ef8127a3" />
